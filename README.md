@@ -64,7 +64,3 @@ The Random Forest model identified the most influential factors in predicting wh
 | `HR_Retention.ipynb` | The primary Jupyter Notebook containing all data cleaning, EDA, visualization, modeling, and final risk scoring. |
 | `HR_Retention.py` | A clean Python script version of the notebook for deployment or review. |
 | `HR_comma_sep.csv` | The raw dataset used for the analysis. |
-
-***
-
-Would you like me to check the status of your GitHub repository now that you've pushed the merged commit?
